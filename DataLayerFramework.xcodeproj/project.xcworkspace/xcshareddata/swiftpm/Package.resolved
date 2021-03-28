@@ -1,0 +1,43 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Alamofire",
+        "repositoryURL": "https://github.com/Alamofire/Alamofire.git",
+        "state": {
+          "branch": null,
+          "revision": "eaf6e622dd41b07b251d8f01752eab31bc811493",
+          "version": "5.4.1"
+        }
+      },
+      {
+        "package": "DomainLayerPackage",
+        "repositoryURL": "https://github.com/erkutbas0/DomainLayerPackage.git",
+        "state": {
+          "branch": null,
+          "revision": "4c99de55637af141e08517012e6f74de63dc4dc0",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "NetworkEntityPackage",
+        "repositoryURL": "https://github.com/erkutbas0/NetworkEntityPackage.git",
+        "state": {
+          "branch": null,
+          "revision": "6805465c864ccba924b5b28304e62c58d4498f7b",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "NetworkLayerPackage",
+        "repositoryURL": "https://github.com/erkutbas0/NetworkLayerPackage.git",
+        "state": {
+          "branch": null,
+          "revision": "2efa375b35451c81e5b34d84736c7cd29faa471f",
+          "version": "1.0.3"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
